@@ -31,7 +31,7 @@ export const About = () => {
                 Aayush518
               </h1>
               <p className="text-xl md:text-2xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
-                Software Architect & Digital Craftsman
+                Software Engineer & Digital Craftsman
               </p>
             </div>
 
@@ -79,9 +79,8 @@ export const About = () => {
                 icon: Cpu,
                 items: [
                   'Full-stack Development',
-                  'System Architecture',
-                  'Cloud Infrastructure',
-                  'Performance Optimization'
+                  'NLP & Machine Learning',
+                  'Project Management'
                 ]
               },
               {
@@ -92,16 +91,17 @@ export const About = () => {
                   'React / Next.js',
                   'Node.js / Express',
                   'PostgreSQL / MongoDB'
+                  
                 ]
               },
               {
                 title: 'Services',
                 icon: Globe,
                 items: [
-                  'Technical Consulting',
-                  'Architecture Design',
-                  'Code Reviews',
-                  'Performance Audits'
+                  'Web Development',
+                  'API Integration',
+                  'Cloud Computing',
+                  'Research & Development'
                 ]
               },
               {
